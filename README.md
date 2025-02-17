@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/vadla_sumanth" target="blank"><img src="https://img.shields.io/twitter/follow/vadla_sumanth?logo=twitter&style=for-the-badge" alt="vadla_sumanth" /></a> </p>
 
-- 🔭 I’m currently working on **DharitriOne Blockchain**
+- 🔭 I’m currently working on **TerraDharitri Blockchain**
 
 - 🌱 I’m currently learning **React.js**
 
