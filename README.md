@@ -38,7 +38,7 @@ Winner of ElevenLabs Worldwide Hackathon, Hyderabad
 - Built an AI-powered platform that makes education loans eligibilty check fast, simple, and privacy-first.
 - Instead of long forms and endless calls, students just enter their mobile number, get an instant AI voice call that collects their details, and receive a loan decision by email right after the call—without us ever storing their number.
 - **Technologies and tools used:** ElevenLabs Conversational AI Agent, n8n - AI workflow automation platform, Bolt - AI Builder and Twilio
-- [Click to see full details in LinkedIn](https://www.linkedin.com/posts/sai-sumanth-v_elevenlabs-elevenlabsworldwidehackathon-hyderabad-activity-7405873828494626816-2GKy?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD7AhqABiR1hIZRqfW_6ynEVzi792ldbHl0)
+- [Click here to see full details in LinkedIn](https://www.linkedin.com/posts/sai-sumanth-v_elevenlabs-elevenlabsworldwidehackathon-hyderabad-activity-7405873828494626816-2GKy?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD7AhqABiR1hIZRqfW_6ynEVzi792ldbHl0)
 
 ## Connect with Me 🔗
 
