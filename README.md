@@ -34,7 +34,7 @@ Python, Opencv, Generative AI, Machine Learning, Deep Learning, FastAPI, Postgre
 
 ## Achievements 🏆
 
-First place in ElevenLabs Worldwide Hackathon, Hyderabad - [click to see post in linkedin](https://www.linkedin.com/posts/sai-sumanth-v_elevenlabs-elevenlabsworldwidehackathon-hyderabad-activity-7405873828494626816-2GKy?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD7AhqABiR1hIZRqfW_6ynEVzi792ldbHl0)
+Winner of ElevenLabs Worldwide Hackathon, Hyderabad - [click to see post in linkedin](https://www.linkedin.com/posts/sai-sumanth-v_elevenlabs-elevenlabsworldwidehackathon-hyderabad-activity-7405873828494626816-2GKy?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD7AhqABiR1hIZRqfW_6ynEVzi792ldbHl0)
 
 ## Connect with Me 🔗
 
