@@ -2,7 +2,7 @@
 
 # Hi there! 👋
 
-I'm **Sai Sumanth Vadla** — a software developer and open-source enthusiast based in **Hyderabad**. I build practical tools and apps using TypeScript and Python, with an interest in image processing and data cleaning. 
+I'm **Sai Sumanth Vadla** — a software developer and open-source enthusiast based in **Hyderabad**. I build practical tools and apps using Python, with an interest in image processing and data cleaning. 
 
 > Crafting reliable software and learning something new every day. 🚀
 
