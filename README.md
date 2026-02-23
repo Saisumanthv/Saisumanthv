@@ -13,8 +13,7 @@ I'm **Sai Sumanth Vadla** — a software developer and open-source enthusiast ba
 - Name: **Sai Sumanth Vadla**
 - Location: **Hyderabad, India** 📍
 - GitHub since: **May 2022**
-- Public repositories: **24**
-- Private & organization repos (owned): **60**
+- Public repositories: **18**
 
 I primarily work with **Python** — building web apps, utilities, and experimenting with OCR/image processing workflows. I enjoy contributing to practical projects, improving developer workflows, and exploring applied machine learning and data-cleaning tools.
 
@@ -23,12 +22,6 @@ Currently active on multiple personal projects and regularly pushing updates (fo
 ## Skills & Technologies
 
 Python, Opencv, Generative AI, Machine Learning, Deep Learning, FastAPI, PostgreSQL
-
-## GitHub Stats 📈
-
-- Public repos: **24**
-- Followers: **6**
-- Following: **21**
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Saisumanthv&theme=default)
 
